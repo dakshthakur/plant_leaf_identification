@@ -23,11 +23,6 @@ The dataset used is **Flavia leaves dataset** which can be downloaded from [here
 
 It is recommended to use [Anaconda Python 3.6 distribution](https://www.anaconda.com) and using a `Jupyter Notebook`
 
-## Instructions
-
-* Create the following folders in the project root - 
-  * `Flavia leaves dataset` : will contain Flavia dataset
-  * `mobile captures` : will contain mobile captured leaf images for additional testing purposes
 
 ## Project structure
 
